@@ -10,4 +10,4 @@ Two flea infested dogs are lying next to each other. The fleas hop from one dog 
 We assume that the particles are interacting as lennard jones 6-12 potential. They have interaction energy that depends on their relative seperation. So we can calculate the force between them by calculating the gradient. And after that we use Newton's laws to evlove them in time. When we plot the histogram on thier speeds, we see that they follow maxwell boltzman distribution!
 
 ### Brandon Thermostate
-We 
+In this case, we just do the lennard-Jones potential. But we are keeping temperature (Kinetic Energy) fixed. In every step when the Kinetic Energy changes, we scale the velocity and force the maen Kinetic Energy per particle to be fixed! hence we see the by controlling the temperature we can actually observe the phase changes in them! At the lower temperatures the crystel pattern in observed!
