@@ -12,3 +12,7 @@ We assume that the particles are interacting as lennard jones 6-12 potential. Th
 ### Brandon Thermostate
 In this case, we just do the lennard-Jones potential. But we are keeping temperature (Kinetic Energy) fixed. In every step when the Kinetic Energy changes, we scale the velocity and force the maen Kinetic Energy per particle to be fixed! hence we see the by controlling the temperature we can actually observe the phase changes in them! At the lower temperatures the crystel pattern in observed!
 ![crystal](https://github.com/iashyam/StatMech-Lab/blob/main/images/crystal.jpeg)
+
+
+### Radial Distribution Funtion
+Statistical Mechanics can explain the phase transisiton completly on the basis on newtonian dynamics. Now we need something to compute that can tell us about the phase of the system. This quantity is called Radial Distribution funtion. We can collect data and plot that imparically from our system. It is differnt for different phases of the system. 
