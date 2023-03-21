@@ -16,3 +16,6 @@ In this case, we just do the lennard-Jones potential. But we are keeping tempera
 
 ### Radial Distribution Funtion
 Statistical Mechanics can explain the phase transisiton completly on the basis on newtonian dynamics. Now we need something to compute that can tell us about the phase of the system. This quantity is called Radial Distribution funtion. We can collect data and plot that imparically from our system. It is differnt for different phases of the system. 
+
+## Monte Carlo Simulations for Ising Model
+The folder contains the monte carlo simulation for ising model. It has three files which deals with Ising model, with and without B and 3D ising model.
